@@ -19,9 +19,9 @@ public class TopBottomAnimation: NSObject, Animator {
 
     public let style: Style
 
-    public var showDuration: TimeInterval = 0.4
+    public var showDuration: TimeInterval = 0.5
 
-    public var hideDuration: TimeInterval = 0.2
+    public var hideDuration: TimeInterval = 0.5
 
     public var springDamping: CGFloat = 0.8
 
